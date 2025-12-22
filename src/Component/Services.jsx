@@ -13,7 +13,7 @@ const Services = () => {
           experiences.From first serve to match point-we have got the right
           program for you.
         </p>
-        <h3 className="mt-24 text-3xl font-[text] text-blue-100 p-4 rounded-2xl font-semibold bg-[#333] w-fit hover:bg-[#000] hover:rounded">
+        <h3 className="mt-24 text-3xl font-[text] text-blue-100 p-4 rounded-2xl font-semibold bg-[#333] w-fit hover:bg-black hover:rounded">
           Explore More<i className="ri-arrow-right-up-long-fill"></i>
         </h3>
       </div>
