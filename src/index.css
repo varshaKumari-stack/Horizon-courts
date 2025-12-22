@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@font-face {
+    font-family:nav ;
+    src: url("../fonts/LibreFranklin-VariableFont_wght.ttf");
+}
+ @font-face {
+    font-family:logo ;
+    src: url('../fonts/NewRocker-Regular.ttf');
+ }
+  @font-face {
+    font-family:btn ;
+    src: url('../fonts/Breakdown\ PG.otf');
+ }
+  @font-face {
+    font-family:text ;
+    src: url('../fonts/BC_Novatica_CYR_Regular.otf');
+ }
+ html , body{
+     height: 100%;
+     width: 100%;
+ }
+ body{
+    background: #e5e4e4db;
+ }
