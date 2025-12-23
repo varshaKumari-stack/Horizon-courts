@@ -10,18 +10,18 @@ const Header = () => {
         src={header}
         className="  w-full h-150 object-center object-cover rounded-lg "
       />
-      <h1 className="  absolute top-[20%] left-[20%] text-5xl text-blue-100 font-[nav]">
+      <h1 className="  absolute top-[10%] left-[20%] text-5xl text-blue-100 font-[nav]">
         Unleash Your Inner Champion Today.{" "}
       </h1>
-      <h2 className="absolute top-[29%] left-[36%] text-5xl text-blue-100 font-[nav]">
+      <h2 className="absolute top-[19%] left-[36%] text-5xl text-blue-100 font-[nav]">
         All In One Place.
       </h2>
-      <p className="absolute top-[36%] left-[20%] text-2xl text-blue-100 font-[nav] text-center">
+      <p className="absolute top-[26%] left-[20%] text-2xl text-blue-100 font-[nav] text-center">
         Join the ultimate tennis experience-where passion meets performance,
         <br />
         and every swing brings your closer to victory.
       </p>
-      <h3 className="absolute top-[47%] left-[35%] text-2xl text-white bg-[#222] px-8 py-4 rounded-4xl font-[btn] text-centerffont-[btn] hover:bg-black hover:rounded-2xl hover:text-white tracking-[0.2rem]">
+      <h3 className="absolute top-[37%] left-[35%] text-2xl text-white bg-[#222] px-8 py-4 rounded-4xl font-[btn] text-centerffont-[btn] hover:bg-black hover:rounded-2xl hover:text-white tracking-[0.2rem]">
         Start your own journey
       </h3>
       <div className="flex justify-between gap-2 absolute bottom-[4%] left-[2%] text-[#ddd] text-xl font-md rounded-3xl">
